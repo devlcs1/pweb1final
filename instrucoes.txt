@@ -1,0 +1,22 @@
+PÁGINA INICIAL: login.php
+
+Instruções:
+A página de login (login.php) é acessada somente com as seguintes credenciais:
+Usuário: lucas
+Senha: 123
+
+(Qualquer dado inserido incorretamente não efetivará o login).
+
+- Após o login efetuado, aparece a tela de Cadsto de Cliente e de Busca (lista.php).
+- Ao Cadastrar Cliente, um código já é anexado para cada novo cliente cadastrado (crescente).
+- A listagem é feita de forma automática, logo apos o Cadastro.
+- Acima da lista fica a busca por nomes, caso for informado uma letra ou nome que não foi previamente cadastrada, não aparecerá nada. Se buscar o cliente sem informar nada, mostrará todos os clientes já cadastrados.
+- Para sair ou finalizar a sessão, é preciso precionar o botão "Sair".
+- Caso a aba seja fechada, não exigirá um novo login, apenas se for seguido a instrução acima.
+
+
+- Banco de dados: MySQL
+- HTML, CSS, PHP e JavaScript.
+
+Lucas Eduardo Mendonça.
+
